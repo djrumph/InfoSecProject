@@ -1,21 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-2 of 2,397
-Sent .java file and .txt file with same code in it just in case.
-Inbox
-x
-
-Cedric Hurst
-Attachments
-2:19 AM (21 hours ago)
-to D
-
-
-2 Attachments
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
